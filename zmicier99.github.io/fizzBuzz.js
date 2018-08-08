@@ -20,4 +20,5 @@ const fizzBuzz = (begin,end) =>{
       }
   }
 
-fizzBuzz(11,20);
+
+console.log(fizzBuzz(11,20));
